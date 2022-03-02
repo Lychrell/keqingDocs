@@ -1,13 +1,13 @@
-# Card Codes Generator
+# Card Code Generator
 
-![Card codes generator](/img/features/codes.png)
+![Card code generator](/img/features/codes.png)
 
-### How to use
-- Run the `kc` command
-- React with 📝 to use this feature.​​
+### Usage
+- Run the `k!collection` command
+- Press the 📝 reaction​​
 
 :::warning
-For non-premium servers, you need to add the 📝 reaction manually.
+For non-premium servers, you need to add the 📝 (pencil) reaction manually.
 :::
 
 ---
@@ -15,8 +15,13 @@ For non-premium servers, you need to add the 📝 reaction manually.
 
 ![Card codes generator](/img/features/filter.png)
 
-### How to use
-- Run the `kc` command
-- React with 🔍 to use this feature.​​
+### Usage
+- Run the `k!collection` command
+- Press the 🔍 reaction
+- Type the character or symbols that you want to include in the codes generated​​
 
-You can also filter the codes that you want to copy, get all the codes, get all untagged codes, or get under 100 wish card codes.
+:::warning
+For non-premium servers, you need to add the 🔍 (mag) reaction manually.
+:::
+
+You can either filter the codes that you want to copy, get the untagged cards, or extract the cards under 100 wishlist.
