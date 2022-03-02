@@ -1,23 +1,21 @@
-# Multiframe Tester
+# Multi-frame Tester
 
 :::danger Important
-Premium servers only
+This feature is available for premium servers only.
 :::
 
 ![Multiframe tester](/img/features/getframes.gif ':size=100%')
 
-### How to use
-- First, `klu` a character
-- Select it's Edition
-- `Reply` to the embed of `klu` command
+### Usage
+- Search for the character through `k!lookup`
+- Select the corresponding edition
+- Reply the following command to the lookup embed
 
 ![](/img/features/reply.png)
 
-- Run the command below
-
-
-:::info Command:
-**Usage** : `[p]getframes  <frame type> [page]`
+:::info Command Information:
+**Usage** : `[p]getframes <type> [page]`
+*type* : bits, carousel, special, event 
 
 **Aliases** : `[p]getf`, `[p]getframe`, `[p]multif`, `[p]multiframe`
 
