@@ -1,10 +1,10 @@
-# Bits Calculator
+# Bit Calculator
 
-![Bits Calculator](/img/features/bits.png)
+![Bit Calculator](/img/features/bits.png)
 
-### How to use
-- Run the `kbi` command
-- React with ➕.​​
+### Usage
+- Run the `k!bits` command
+- Press the ➕ reaction.​​
 
 :::warning
 For non-premium servers, you need to add the ➕ reaction manually.
