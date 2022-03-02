@@ -6,7 +6,7 @@ This feature is available for premium servers only.
 
 ![Multiframe tester](/img/features/getframes.gif ':size=100%')
 
-### Command Information:
+### Command Information
 
 **Format** : `[p]getframes <type> [page]`
 
