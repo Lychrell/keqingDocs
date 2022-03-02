@@ -6,7 +6,7 @@
 
 **Format** : `[p]setlogchannel <#channel>`
 
-**Example**  :
+**Example** :
 ```bash
 asetlogchannel #proe-drops
 ```
