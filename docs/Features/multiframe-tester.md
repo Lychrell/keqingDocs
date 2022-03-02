@@ -6,13 +6,6 @@ This feature is available for premium servers only.
 
 ![Multiframe tester](/img/features/getframes.gif ':size=100%')
 
-### Usage
-- Search for the character through `k!lookup`
-- Select the corresponding edition
-- Reply the following command to the lookup embed
-
-![](/img/features/reply.png)
-
 ### Command Information:
 
 **Format** : `[p]getframes <type> [page]`
@@ -28,3 +21,10 @@ amultiframe carousel 3
 agetf special 5
 amultif event 2
 ```
+
+### Usage
+- Search for the character through `k!lookup`
+- Select the corresponding edition
+- Reply to the lookup embed with the multi-frame tester command
+
+![](/img/features/reply.png)
