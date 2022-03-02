@@ -26,4 +26,4 @@ For non-premium servers, you need to add the 🔍 (`:mag:`) reaction manually.
 
 You can either filter the codes that you want to copy, get the untagged cards, or extract the cards under 100 wishlist.
 
-// Edition? Wishlist?
+// Edition? Wishlist? Does it only work on one page?
