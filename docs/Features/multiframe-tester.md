@@ -15,7 +15,7 @@ This feature is available for premium servers only.
 
 ### Command Information:
 
-**Usage** : `[p]getframes <type> [page]`
+**Format** : `[p]getframes <type> [page]`
 
 > *type* : bits, carousel, special, event 
 
