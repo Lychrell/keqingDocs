@@ -2,18 +2,26 @@
 
 ![(Not) Starboard](/img/features/starboard.png)
 
-### How To use
+### Setting-up
 
-- First, if you are an Admin please run this command to set the log channel.
+**Format** : `[p]setlogchannel <#channel>`
 
+**Example**  :
 ```bash
-asetlogchannel #channel
+asetlogchannel #proe-drops
 ```
-> Example: `asetlogchannel #proe-drops`
 
-- `Reply` the drop message with `[p]star` command
+:::warning
+Only a member with `Administration` permission can use this command.
+:::
+
+### Command Information
+
+**Format** : `[p]star`
+
+### Usage
+- Reply the command to the drop message
 
 ![](/img/features/star2.png)
 
-- Done 
 ![](/img/features/stardone.png)
