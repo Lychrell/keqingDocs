@@ -7,5 +7,5 @@
 - Press the ➕ reaction.​​
 
 :::warning
-For non-premium servers, you need to add the ➕ reaction manually.
+For non-premium servers, you need to add the ➕ (:heavy_plus_sign:) reaction manually.
 :::
