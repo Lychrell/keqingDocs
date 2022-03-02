@@ -13,11 +13,11 @@ This feature is available for premium servers only.
 
 ![](/img/features/reply.png)
 
-:::info Command Information:
+### Command Information:
 
 **Usage** : `[p]getframes <type> [page]`
 
-*type* : bits, carousel, special, event 
+> *type* : bits, carousel, special, event 
 
 **Aliases** : `[p]getf`, `[p]getframe`, `[p]multif`, `[p]multiframe`
 
@@ -28,4 +28,3 @@ amultiframe carousel 3
 agetf special 5
 amultif event 2
 ```
-:::
