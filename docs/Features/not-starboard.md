@@ -12,7 +12,7 @@ asetlogchannel #proe-drops
 ```
 
 :::warning
-Only a member with `Administration` permission can use this command.
+Only the members with `Administration` permission can use this command.
 :::
 
 ### Command Information
