@@ -10,7 +10,7 @@ This feature is available for premium servers only.
 
 **Format** : `[p]getframes <type> [page]`
 
-> **type** : bits, carousel, special, event 
+> `type` : bits, carousel, special, event 
 
 **Aliases** : `[p]getf`, `[p]getframe`, `[p]multif`, `[p]multiframe`
 
