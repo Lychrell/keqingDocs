@@ -13,26 +13,32 @@
 ![Server Drop](/img/features/drop2.png ':size=100%')
 
 :::warning Important
-*@Keqing* must have the `MANAGE ROLES` permisssion to create the **Server Drop Ping** role.
+*@Keqing* must have the `MANAGE ROLES` permisssion to create the *@Server Drop Ping* role.
+:::
+
+:::info
+The role can be renamed as long as it includes `Server Drop` anywhere, case-insensitive.
 :::
 
 ### Command Information
-```bash
-adropwatch
-```
-To remove your *@Server Drop Ping* role, just click the <button class="btn btn-danger">Disable My Ping</button> button
 
-Note : You can use this command on any servers
+**Format** : `[p]dropwatch`
+
+:::warning Important
+*@Keqing* must have the `MENTION ROLES` permisssion to tag the *@Server Drop Ping* role.
 :::
 
+:::info
+To remove your *@Server Drop Ping* role, just press the <button class="btn btn-danger">Disable my ping</button> button.
+:::
 
-#### Random question
-> "How to disable Server drop ping?"
->
-> — *Some random owner*
+---
 
-#### Answer
-- Run `[p]dropwath` again
-- Click the <button class="btn btn-danger">Disable this feature</button> button
+### Disable Feature
 
-// No ping, Custom drop ping name
+- Run `[p]serverdrop` command 
+- Press the <button class="btn btn-danger">Disable this feature</button> button
+
+:::warning Important
+*@Keqing* will delete the *@Server Drop Ping* role, so all members will lose the role.
+:::
