@@ -11,7 +11,7 @@ For non-premium servers, you need to add the 📝 (`:pencil:`) reaction manually
 :::
 
 :::info
-Keqing supports multiple pages. Just go to the next page and it will add them until it reaches 50 codes.
+Keqing supports multiple pages. Just change the page and it will add them until it reaches 50 codes.
 :::
 
 ---
