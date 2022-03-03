@@ -10,8 +10,6 @@
 
 - Run the command and press the <button class="btn btn-success">Enable this feature</button> button
 
-- Run the command and press the <button class="btn btn-success">Give me the role</button> button
-
 ![Server Drop](/img/features/drop2.png ':size=100%')
 
 :::warning Important
@@ -25,6 +23,8 @@ The role can be renamed as long as it includes `Server Drop` anywhere, case-inse
 ### Command Information
 
 **Format** : `[p]dropwatch`
+
+- Run the command and press the <button class="btn btn-success">Give me the role</button> button
 
 :::warning Important
 *@Keqing* must have the `MENTION ROLES` permisssion to tag the *@Server Drop Ping* role.
