@@ -9,7 +9,7 @@
 - Enter the frame name
 
 :::tip
-Use `[p]frames` to see the available frames in Keqing.
+Use `[p]frames` to see the frames available in Keqing.
 :::
 
 :::warning
