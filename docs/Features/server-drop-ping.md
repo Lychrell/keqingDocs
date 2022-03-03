@@ -10,6 +10,8 @@
 
 - Run the command and press the <button class="btn btn-success">Enable this feature</button> button
 
+- Run the command and press the <button class="btn btn-success">Give me the role</button> button
+
 ![Server Drop](/img/features/drop2.png ':size=100%')
 
 :::warning Important
