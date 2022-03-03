@@ -42,5 +42,5 @@ To remove your *@Server Drop Ping* role, just press the <button class="btn btn-d
 - Press the <button class="btn btn-danger">Disable this feature</button> button
 
 :::warning Important
-*@Keqing* will delete the *@Server Drop Ping* role, so all members will lose the role.
+*@Keqing* will delete the *@Server Drop Ping* role, which means all members will lose the role.
 :::
