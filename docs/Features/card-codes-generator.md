@@ -1,6 +1,6 @@
 # Card Code Generator
 
-![Card code generator](/img/features/codes.png)
+![Card Code Generator](/img/features/codes.png)
 
 ### Usage
 - Run the `k!collection` command
@@ -10,10 +10,14 @@
 For non-premium servers, you need to add the 📝 (`:pencil:`) reaction manually.
 :::
 
+:::info
+Keqing supports multiple pages. Just go to the next page and it will add them until it reaches 50 codes.
+:::
+
 ---
 ## Code Filtering
 
-![Card codes generator](/img/features/filter.png)
+![Code Filter](/img/features/filter.png)
 
 ### Usage
 - Run the `k!collection` command
