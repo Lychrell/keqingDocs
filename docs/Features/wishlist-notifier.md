@@ -2,43 +2,52 @@
 
 ![Wishlist Notifier](/img/features/wish2.png)
 
-### How to use
-- First, if you want to use this feature, you need to enable it in your server.
-- How? If you are an admin, just click the <button class="btn btn-success">Enable this feature</button>
-button
+
+### Setting-up
+
+**Format** : `[p]wishwatch`
 
 ![Wishlist Notifier](/img/features/wish3.png)
 
-- After that you can run the command below
-
-:::info Command :
-```bash
-awishwatch
-```
-To remove your *@Wishlist Ping* role, just click the <button class="btn btn-danger">Disable My Wishlist ping</button> button
-
-Note : You can use this command on any servers
+:::warning Important
+*@Keqing* must have the `MANAGE ROLES` permisssion to create the *@Wishlist Ping* role.
 :::
+
+:::info
+The role can be renamed as long as it includes `Wishlist` anywhere, case-insensitive.
+:::
+
+### Command Information
+
+**Format** : `[p]wishwatch`
 
 ![](/img/features/wish.png ':size=100%')
 
 :::warning Important
-*@Keqing* must have the <code>MANAGE ROLES</code> perms
+*@Keqing* must have the `MENTION ROLES` permisssion to tag the *@Wishlist Ping* role.
 :::
 
-:::tip
-For premium servers, you can set the `Role requirement` to run the `[p]wishwatch` command. Means you can combine it with `mee6` or other bots. <br/><br/>
-**Command** : 
-```bash
-awishaccess <@role | false>
-```
+:::info
+To remove your *@Wishlist Ping* role, just press the <button class="btn btn-danger">Disable my ping</button> button.
 :::
 
-#### Random question
-> "How to disable Wishlist Ping?"
->
-> — *Some random owner*
+---
 
-#### Answer
-- Run `[p]wishwatch` again
-- Click the <button class="btn btn-danger">Disable this feature</button> button
+### Role restriction
+
+This feature can be limited so that a role is required to obtain the *@Wishlist Ping*.
+
+**Format** : `[p]wishaccess <@role | false>`
+
+:::info
+Use `false` to make it available to all members.
+:::
+
+### Disable Feature
+
+- Run the `[p]wishwatch` command 
+- Press the <button class="btn btn-danger">Disable this feature</button> button
+
+:::warning Important
+*@Keqing* will delete the *@Wishlist Ping* role after it is disabled.
+:::
