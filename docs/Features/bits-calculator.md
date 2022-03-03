@@ -2,6 +2,8 @@
 
 ![Bit Calculator](/img/features/bits.png)
 
+Computes the total amount of bits in your inventory.
+
 ### Usage
 - Run the `k!bits` command
 - Press the ➕ reaction​​
