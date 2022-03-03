@@ -11,5 +11,5 @@ For non-premium servers, you need to add the ➕ (`:heavy_plus_sign:`) reaction 
 :::
 
 :::info
-Keqing supports multiple pages. Just go to the next page and it will add the bits automatically.
+Keqing supports multiple pages. Just change the page and it will add the bits automatically.
 :::
