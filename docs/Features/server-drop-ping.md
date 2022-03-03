@@ -1,4 +1,4 @@
-# Server Drop Ping
+# Server Drop Notifier
 
 ![](/img/features/dropwatch.png ':size=100%')
 ![Server Drop](/img/features/drop.png ':size=100%')
