@@ -2,6 +2,8 @@
 
 ![Card Code Generator](/img/features/codes.png)
 
+Copy all the codes in your collection.
+
 ### Usage
 - Run the `k!collection` command
 - Press the 📝 reaction​​
@@ -19,6 +21,8 @@ Keqing supports multiple pages. Just change the page and it will add them until 
 
 ![Code Filter](/img/features/filter.png)
 
+Choose the codes to be extracted from your collection.
+
 ### Usage
 - Run the `k!collection` command
 - Press the 🔍 reaction
@@ -27,7 +31,5 @@ Keqing supports multiple pages. Just change the page and it will add them until 
 :::warning
 For non-premium servers, you need to add the 🔍 (`:mag:`) reaction manually.
 :::
-
-You can either filter the codes that you want to copy, get the untagged cards, or extract the cards under 100 wishlist.
 
 // Edition? Wishlist? Does it only work on one page?
