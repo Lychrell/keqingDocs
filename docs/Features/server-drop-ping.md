@@ -3,28 +3,26 @@
 ![](/img/features/dropwatch.png ':size=100%')
 ![Server Drop](/img/features/drop.png ':size=100%')
 
-Basically same as the [Wishlist Notifier](./wishlist-notifier)
 
-### How to use
+### Setting-up
 
-- First, if you want to use this feature, you need to enable it in your server.
-- How? If you are an admin, just click the <button class="btn btn-success">Enable this feature</button> button
+**Format** : `[p]dropwatch`
+
+- Run the command and press the <button class="btn btn-success">Enable this feature</button> button
 
 ![Server Drop](/img/features/drop2.png ':size=100%')
 
-- After that you can run the command below
+:::warning Important
+*@Keqing* must have the `MANAGE ROLES` permisssion to create the **Server Drop Ping** role.
+:::
 
-:::info Command :
+### Command Information
 ```bash
 adropwatch
 ```
 To remove your *@Server Drop Ping* role, just click the <button class="btn btn-danger">Disable My Ping</button> button
 
 Note : You can use this command on any servers
-:::
-
-:::warning Important
-*@Keqing* must have the <code>MANAGE ROLES</code> perms
 :::
 
 
@@ -36,3 +34,5 @@ Note : You can use this command on any servers
 #### Answer
 - Run `[p]dropwath` again
 - Click the <button class="btn btn-danger">Disable this feature</button> button
+
+// No ping, Custom drop ping name
