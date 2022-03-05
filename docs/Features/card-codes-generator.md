@@ -26,7 +26,7 @@ Choose the codes to be extracted from your collection.
 ### Usage
 - Run the `k!collection` command
 - Press the 🔍 reaction
-- Type the character or symbols to select the codes​​
+- Type the character or symbols that will select the codes​​
 
 :::warning
 For non-premium servers, you need to add the 🔍 (`:mag:`) reaction manually.
