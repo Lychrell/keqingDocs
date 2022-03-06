@@ -2,6 +2,8 @@
 
 ![(Not) Starboard](/img/features/starboard.png)
 
+Display your best drops and other messages from Karuta.
+
 ### Setting-up
 
 **Format** : `[p]setlogchannel <#channel>`
